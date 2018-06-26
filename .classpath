@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Utils2017"/>
+	<classpathentry kind="lib" path="/Users/kannra/java-library/commons-cli-1.4/commons-cli-1.4.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/multiObj"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
